@@ -1,4 +1,4 @@
-# first_app
+# Dice_Roller
 
 My First Flutter App Which is a Dice Roller
 
